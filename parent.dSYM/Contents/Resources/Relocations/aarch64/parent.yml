@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/andreylobachev/Documents/OperationSystems_sem3/lab2/parent'
+relocations:     []
+...
